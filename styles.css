@@ -1,0 +1,29 @@
+html {
+  background-color: #1f1e33;
+}
+
+body {
+  border: 3px solid rgb(38, 201, 241);
+  background-color: rgb(203, 247, 253);
+  color: black;
+  font-family: "Titillium Web", sans-serif;
+  margin: 20px auto;
+  width: 600px;
+  padding: 20px 100px;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-family: "Patua One", cursive;
+  margin-left: 20px;
+}
+
+a {
+  color: #564edd;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
